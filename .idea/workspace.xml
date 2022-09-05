@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f46992c1-d718-4207-b045-e408e498e7dd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ReactTsScss.tsx.child.0" />
+        <option value="ReactTsScss" />
+        <option value="ReactComponent.js.child.1" />
+        <option value="ReactComponent.jsx.child.0" />
+        <option value="TSReactTS" />
+        <option value="JavaScript File" />
+        <option value="CleanJsFile" />
+        <option value="ReactComponent.js.child.0" />
+        <option value="ReactComponent" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DE4HQZRIT9hY1hP0g6fXrifyHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="C:\Users\mag19\Desktop\MyProg\ReactTsPizza\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src\redux\slice\sliceCart" />
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src\components\Header\component\Search" />
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src\pages\Home" />
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src\assets" />
+      <recent name="C:\Users\mag19\Desktop\MyProg\pizza\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46992c1-d718-4207-b045-e408e498e7dd" name="Changes" comment="" />
+      <created>1660250822126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660250822126</updated>
+      <workItem from="1660250833510" duration="8971000" />
+      <workItem from="1660298857778" duration="16497000" />
+      <workItem from="1660329368589" duration="139613000" />
+      <workItem from="1660820824245" duration="47754000" />
+      <workItem from="1661158053449" duration="587000" />
+      <workItem from="1661160904540" duration="19000" />
+      <workItem from="1661178131524" duration="622000" />
+      <workItem from="1661179344578" duration="1637000" />
+      <workItem from="1661238056325" duration="16000" />
+      <workItem from="1661242668075" duration="2262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
